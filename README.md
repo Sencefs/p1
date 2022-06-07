@@ -1,6 +1,8 @@
 # Group1
 Interactive Front-End Project
 
+**CLONE OF ORIGINAL PROJECT REPO. ACTUAL LINK TO COLLABORATION REPO BELOW**
+
 ## User Story:
 As a user, I want to search, view, and favorite various investment stocks and crypto currencies 
 
